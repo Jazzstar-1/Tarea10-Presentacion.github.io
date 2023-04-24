@@ -1,0 +1,13 @@
+#divBotones{
+    text-align:center;
+}
+
+html{
+    background:"fondo.jpg";
+}
+body {
+    margin: 50px;
+    border:solid 1px black;
+    padding: 10px;
+    background: #F8DDFF;
+}
